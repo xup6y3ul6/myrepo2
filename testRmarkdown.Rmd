@@ -2,9 +2,7 @@
 title: "Use Rmarkdown Test"
 author: "someone"
 date: "2019/1/25"
-output: 
-  html_document:
-    keep_md: true
+output: github_document
 ---
 hey yo
 
