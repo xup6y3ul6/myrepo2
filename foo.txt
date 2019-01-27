@@ -1,0 +1,2 @@
+thie is the text file 
+from RStudio
